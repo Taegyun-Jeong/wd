@@ -1,6 +1,9 @@
+/* 깃허브 수정해보기 */
+
 @charset "UTF-8";
 @import url("../css/fonts.css");
 @import url("../css/reset.css");
+
 #wrap {
   width: 100%;
   overflow: hidden;

@@ -9,3 +9,5 @@ a {color:rgb(70, 70, 70);text-decoration: none;}
 h1,h2,h3.h4,h5,h6,strong,b {
     font-weight: normal;
 }
+address, em, i {font-style:normal;}
+strong, b {font-weight: 400;}
