@@ -1,0 +1,38 @@
+0.
+ls -la      >>      현재 모든파일을 보여줘
+
+1. 
+git init    >>      깃 생성하기
+
+2.
+git config  >>      깃 환경설정(이름설정, 이메일)
+
+git config user.name 'jeongtg'
+git config user.email 'taegyun0731@gmail.com'
+
+3.
+git remote add origin https://github.com/Taegyun-Jeong/wd.git       >> 오리진 주소
+
+origin  https://github.com/Taegyun-Jeong/wd.git (fetch)      >> 가져오는것
+origin  https://github.com/Taegyun-Jeong/wd.git (push)       >> 업로드
+
+4.
+git add .       >> 스테이징;  점은 all 이란뜻;
+
+5.
+git commit -m '웨딩홈페이지 배포'      >>  커밋 + -m '메시지입력'
+
+6. 
+git push origin master    >>  푸쉬
+
+7.
+>>      새로고침
+
+8.
+>>      Setting 
+
+9.
+>>      pages
+
+10.
+>>      build and deployment > branch > master(원본)/ branch(수정) > save
