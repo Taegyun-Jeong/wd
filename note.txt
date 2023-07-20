@@ -1,0 +1,14 @@
+// 모든 홈페이지의 규칙 
+    wrap {
+        header {}
+        main {}
+        footer {}
+    }
+
+닷홈
+taegyun0731.dothome.co.kr
+taegyun0731.dothome.co.kr/wd
+
+    관리자페이지 : taegyun0731.dothome.co.kr/myadmin
+
+데이터베이스
